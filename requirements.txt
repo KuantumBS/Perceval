@@ -1,5 +1,5 @@
 numpy
-quandelibc~=0.6.0
+quandelibc>=0.6.0
 tabulate
 pytest
 setuptools
